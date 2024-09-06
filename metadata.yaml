@@ -1,0 +1,49 @@
+_repo: Fragment-of-a-novel-written-by-Jane-Austen-January-March-1817-b-Now-first-printed-from-the-ma__74233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Austen
+  editor:
+    agent_name: Chapman, R. W. (Robert William)
+    alias: Chapman, Robert William
+    birthdate: 1881
+    deathdate: 1960
+    gutenberg_agent_id: '41809'
+    url: http://www.gutenberg.org/2009/agents/41809
+    wikipedia: https://en.wikipedia.org/wiki/Robert_William_Chapman_(scholar)
+description: '"The fragment of a novel, written by Jane Austen in the first three
+  months of the year in which she died, has no name; but it has long been known to
+  members of her family as Sanditon."--Preface'
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74233'
+  lccn: '25011471'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/Fragment_of_a_Novel_Written_by_Jane_Aust/nrHTAAAAMAAJ?hl=en&gbpv=0
+pgterms:marc905: 20210116121553austen
+pgterms:marc906: '1925'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman, Neil Mercer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aUnited Kingdom :$bOxford University Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Sussex (England) -- Fiction'
+- !lcsh 'Unfinished books'
+- !lcsh 'Heywood, Charlotte (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Fragment of a novel written by Jane Austen, January-March 1817 : $b Now first
+  printed from the manuscript'
+url: http://www.gutenberg.org/ebooks/74233
