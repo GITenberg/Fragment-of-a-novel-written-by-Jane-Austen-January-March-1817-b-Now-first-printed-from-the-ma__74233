@@ -1,5 +1,8 @@
 _repo: Fragment-of-a-novel-written-by-Jane-Austen-January-March-1817-b-Now-first-printed-from-the-ma__74233
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74233-h/images/cover.png
 creator:
   author:
     agent_name: Austen, Jane
@@ -19,6 +22,8 @@ creator:
 description: '"The fragment of a novel, written by Jane Austen in the first three
   months of the year in which she died, has no name; but it has long been known to
   members of her family as Sanditon."--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74233#Fragment-of-a-novel-written-by-Jane-Austen-January-March-1817-b-Now-first-printed-from-the-ma_
 gutenberg_issued: '2024-08-12'
 gutenberg_type: Text
 identifiers:
